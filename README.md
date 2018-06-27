@@ -1,4 +1,4 @@
-# client
+# web-hotel-client-js
 
 En este repositorio se muestra el Front-End de un sistema para un sistema de manejo de reservas para un hotel.
 
